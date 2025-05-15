@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Raja Rahmath
 
-<!--
-**rajarahmath/rajarahmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst and Software Developer with a passion for turning data into actionable insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+--Programming Languages
+      Python (Pandas, NumPy, Matplotlib, Seaborn)
+      
+      SQL (MySQL, PostgreSQL)
+      
+      R (basic knowledge)
+      
+      C (academic level)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--Data Analysis & Visualization
+      Power BI
+      
+      Tableau
+      
+      Excel (advanced functions, pivot tables, dashboards)
+      
+      Jupyter Notebooks
+
+--Machine Learning & AI
+      Scikit-learn (regression, classification, clustering)
+      
+      Association Rule Mining (Apriori, FP-Growth)
+      
+      Deep Learning (Keras basics)
+
+--Databases & Data Handling
+      MySQL, PostgreSQL
+      
+      SQLite
+      
+      CSV, Excel, JSON parsing and handling
+
+--Tools & Technologies
+      Git & GitHub (version control)
+      
+      Google Colab
+      
+      VS Code
+      
+      Anaconda
+
+--Soft Skills
+      Problem-solving
+      
+      Data storytelling
+      
+      Communication & collaboration
+      
+      Continuous learning mindset
+
+## 📂 Projects
+- [Market Basket Analysis](https://github.com/rajarahmath/Market_basket_analysis): Implemented association rule mining and genetic algorithms.
+- [Edge Detection](https://github.com/rajarahmath/Edge-Detection): Developed edge detection using deep learning techniques.
+
+## 📫 Contact
+- [LinkedIn]((https://www.linkedin.com/in/rajarahmath/))
+- Email: raja74rj@gmail.com
